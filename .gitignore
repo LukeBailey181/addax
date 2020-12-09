@@ -131,3 +131,9 @@ dmypy.json
 # temp c++ files 
 *.so
 kavosh/enumerate.cpp
+
+# Mac files
+
+.DSStore 
+
+
